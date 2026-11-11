@@ -1,0 +1,32 @@
+[
+    {
+        "edge_case": 1,
+        "label": "PAID_ACCOUNT_IN_COLLECTION",
+        "record_id": "COL-2026-006835",
+        "description": "A paid-off loan incorrectly has an open collection case."
+    },
+    {
+        "edge_case": 2,
+        "label": "CONTACT_OUTSIDE_ALLOWED_WINDOW",
+        "record_id": "CTP-COL-2026-000001-001",
+        "description": "Contact was attempted at 23:00, outside the permitted window."
+    },
+    {
+        "edge_case": 3,
+        "label": "PAYMENT_WRONG_INSTALLMENT",
+        "record_id": "PMT-2026-000001",
+        "description": "Payment references an installment belonging to another loan."
+    },
+    {
+        "edge_case": 4,
+        "label": "PROMISE_EXCEEDS_ARREARS",
+        "record_id": "PTP-COL-2026-000001-EDGE001",
+        "description": "Promised amount is 1000 more than outstanding arrears."
+    },
+    {
+        "edge_case": 5,
+        "label": "DISPUTED_DEBT_TREATED_AS_CONFIRMED",
+        "record_id": "COL-2026-006836",
+        "description": "A disputed loan is incorrectly kept in an open collection case."
+    }
+]

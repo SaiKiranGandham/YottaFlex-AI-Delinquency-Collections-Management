@@ -1,0 +1,71 @@
+{
+    "project": "YottaFlex AI Delinquency & Collections Management",
+    "database": "SQLite",
+    "export_format": [
+        "CSV",
+        "JSON",
+        "SQL"
+    ],
+    "tables": [
+        {
+            "table": "accounts",
+            "record_count": 10000,
+            "csv_file": "accounts.csv",
+            "json_file": "accounts.json"
+        },
+        {
+            "table": "collection_cases",
+            "record_count": 6836,
+            "csv_file": "collection_cases.csv",
+            "json_file": "collection_cases.json"
+        },
+        {
+            "table": "contact_attempts",
+            "record_count": 6155,
+            "csv_file": "contact_attempts.csv",
+            "json_file": "contact_attempts.json"
+        },
+        {
+            "table": "contact_preferences",
+            "record_count": 30000,
+            "csv_file": "contact_preferences.csv",
+            "json_file": "contact_preferences.json"
+        },
+        {
+            "table": "customers",
+            "record_count": 10000,
+            "csv_file": "customers.csv",
+            "json_file": "customers.json"
+        },
+        {
+            "table": "delinquency_snapshots",
+            "record_count": 10000,
+            "csv_file": "delinquency_snapshots.csv",
+            "json_file": "delinquency_snapshots.json"
+        },
+        {
+            "table": "installments",
+            "record_count": 30000,
+            "csv_file": "installments.csv",
+            "json_file": "installments.json"
+        },
+        {
+            "table": "loans",
+            "record_count": 10000,
+            "csv_file": "loans.csv",
+            "json_file": "loans.json"
+        },
+        {
+            "table": "payments",
+            "record_count": 17925,
+            "csv_file": "payments.csv",
+            "json_file": "payments.json"
+        },
+        {
+            "table": "promises_to_pay",
+            "record_count": 1996,
+            "csv_file": "promises_to_pay.csv",
+            "json_file": "promises_to_pay.json"
+        }
+    ]
+}

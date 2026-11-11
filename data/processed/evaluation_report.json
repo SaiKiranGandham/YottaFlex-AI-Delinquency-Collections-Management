@@ -1,0 +1,34 @@
+{
+    "expected_cases": 5,
+    "detected_cases": 5,
+    "true_positives": 5,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "correctly_detected": [
+        {
+            "label": "CONTACT_OUTSIDE_ALLOWED_WINDOW",
+            "record_id": "CTP-COL-2026-000001-001"
+        },
+        {
+            "label": "DISPUTED_DEBT_TREATED_AS_CONFIRMED",
+            "record_id": "COL-2026-006836"
+        },
+        {
+            "label": "PAID_ACCOUNT_IN_COLLECTION",
+            "record_id": "COL-2026-006835"
+        },
+        {
+            "label": "PAYMENT_WRONG_INSTALLMENT",
+            "record_id": "PMT-2026-000001"
+        },
+        {
+            "label": "PROMISE_EXCEEDS_ARREARS",
+            "record_id": "PTP-COL-2026-000001-EDGE001"
+        }
+    ],
+    "false_positives_details": [],
+    "missed_cases": []
+}
