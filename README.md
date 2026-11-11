@@ -132,7 +132,7 @@ YottaFlex-AI-Delinquency-Collections-Management/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YottaFlex-AI-Delinquency-Collections-Management.git
+git clone https://github.com/SaiKiranGandham/YottaFlex-AI-Delinquency-Collections-Management.git
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
@@ -246,11 +246,19 @@ The Streamlit dashboard provides:
 
 ### Dashboard Screenshot
 
-Add your dashboard screenshot here after capturing it.
+## 📸 Dashboard Screenshots
 
-```text
-docs/screenshots/dashboard.png
-```
+### Dashboard Overview
+![Dashboard Overview](dashboard/screenshots/dashboard-overview.png%201.jpeg)
+
+### Dashboard Screenshot 2
+![Dashboard Screenshot 2](dashboard/screenshots/dashboard-overview.png%202.jpeg)
+
+### Dashboard Screenshot 3
+![Dashboard Screenshot 3](dashboard/screenshots/dashboard-overview.png%203.jpeg)
+
+### Dashboard Screenshot 4
+![Dashboard Screenshot 4](dashboard/screenshots/dashboard-overview.png.jpeg)
 
 ## 10. Data Exports
 
