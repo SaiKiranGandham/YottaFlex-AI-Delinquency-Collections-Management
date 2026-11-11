@@ -225,9 +225,11 @@ python -m pytest -v
 streamlit run dashboard/app.py
 ```
 
-Open the local URL displayed in your terminal, usually:
+## 🚀 Live Demo
 
-`http://localhost:8501`
+**Live Dashboard:** https://yottaflex-ai-delinquency-collections-9kyy.onrender.com
+
+The application is deployed on Render. Open the link to explore the YottaFlex AI Delinquency & Collections dashboard.
 
 ## 9. Dashboard
 
